@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-concurrent-update-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk48/nodejs-concurrent-update-exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mk48/nodejs-concurrent-update-exercise/issues"
+  },
+  "homepage": "https://github.com/mk48/nodejs-concurrent-update-exercise#readme",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
